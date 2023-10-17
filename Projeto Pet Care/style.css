@@ -6,40 +6,35 @@
 
 body {
    font-family: sans-serif;
-
 }
 
-header .container {
+.header-container {
    display: flex;
    align-items: center;
    justify-content:space-between;
    flex-wrap: wrap;
-   padding: 16px 0px;
+   width: 100%;
+   padding: 2%;
 
    background-color: #3397DA;
    color: #ecf0f1;
 
-   /* border: 2px solid red ; */
+   /* border: 2px solid red;  */
 }
 
-header .container .logo {
+.header-logo {
    display: flex;
    justify-content: space-between;
    align-items: center;
-   padding: 10px;
 
-   /* border: 2px solid red  */
+   /* border: 2px solid red;  */
 }
 
-header .container div h1 {
+.header-logo h1 {
    margin-left: 8px;
-   
-   /* border: 2px solid red; */
-}
+   font-size: 40px;
 
-header .container div img {
-
-   /* border: 2px solid red; */
+   /* border: 2px solid red;  */
 }
 
 .navigation ul {
@@ -49,13 +44,25 @@ header .container div img {
    font-weight: bold;
    list-style: none;
    padding: 10px;
-
-   /* border: 2px solid red; */
+   font-size: 18px;
+   /* border: 2px solid red;  */
 }
 
-header ul li a {
+.navigation ul li a {
    text-decoration: none;
    color: #ecf0f1;
 
    /* border: 2px solid red; */
+}
+
+
+/* Media Queries */
+@media (max-width: 768px) {
+   .header-container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border: 2px solid red;
+   }
 }
