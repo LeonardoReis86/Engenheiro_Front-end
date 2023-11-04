@@ -12,53 +12,55 @@
    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-   <header>
-      <img src="./Assets/Images/capelo.png" alt="ícone capelo">
-      <h1>Calculadora de médias</h1>
-   </header>
+   <div class="container">
+      <header>
+         <img src="./Assets/Images/capelo.png" alt="ícone capelo">
+         <h1>Calculadora de médias</h1>
+      </header>
 
-   <main>
-      <form>
-         <input id="atividade" type="text" placeholder="Nome da atividade" required>
-         <input id="nota" type="number" placeholder="Nota da atividade" min="0" max="10" required>
-         <button type="submit">Adicionar</button>
-      </form>
+      <main>
+         <form>
+            <input id="atividade" type="text" placeholder="Nome da atividade" required>
+            <input id="nota" type="number" placeholder="Nota da atividade" min="0" max="10" required>
+            <button type="submit">Adicionar</button>
+         </form>
 
-      <table>
-         <thead>
-            <tr>
-               <th>
-                  Nome da atividade
-               </th>
-               <th>
-                  Nota da atividade
-               </th>
-               <th>
-                  Aprovado?
-               </th>
-            </tr>
-         </thead>
+         <table cellspacing="0">
+            <thead>
+               <tr>
+                  <th>
+                     Nome da atividade
+                  </th>
+                  <th>
+                     Nota da atividade
+                  </th>
+                  <th>
+                     Aprovado?
+                  </th>
+               </tr>
+            </thead>
 
-         <tbody>
-            <tr>
-               <td>Atividade 1</td>
-               <td>7</td>
-               <td><img src="./Assets/Images/feliz.png" alt="Emojhi feliz"></td>
-            </tr>
-         </tbody>
-         <tfoot>
-            <tr>
-               <td>Média Final</td>
-               <td>7</td>
-               <td>Aprovado</td>
-            </tr>
-         </tfoot>
-      </table>
+            <tbody>
+               <tr>
+                  <td>Atividade 1</td>
+                  <td>7</td>
+                  <td><img src="./Assets/Images/feliz.png" alt="Emojhi feliz"></td>
+               </tr>
+            </tbody>
+            <tfoot>
+               <tr>
+                  <td>Média Final</td>
+                  <td>7</td>
+                  <td><span class="resultado aprovado">Aprovado</span></td>
+               </tr>
+            </tfoot>
+         </table>
 
-   </main>
+      </main>
 
-   <footer>
+      <footer>
 
-   </footer>
+      </footer>
+   </div>
 </body>
 </html>
