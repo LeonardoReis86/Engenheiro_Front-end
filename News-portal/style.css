@@ -101,3 +101,94 @@ aside .news {
 .whats-new img {
    max-width: 100%;
 }
+
+.btn-menu {
+   display: none;
+}
+
+/* media query celular */
+@media screen  and (max-width:767px) {
+   .content {
+      display: block;
+   }
+
+   .container {
+      flex-direction: column;
+      max-width: 90%;
+   }
+
+   .container h1 {
+      margin-bottom: 8px;
+   }
+   
+   .spotlight .news a {
+      display: block;
+      font-size: 1.5em;
+   }
+   
+   .spotlight .news img {
+      margin-right: 0;
+   }
+
+   .whats-new {
+      display: block;
+   }
+
+   .whats-new .news {
+      margin-bottom: 32px;
+   }
+
+   aside {
+      padding-left: 0;
+   }
+
+   header div .container {
+      flex-direction: column;
+   }
+
+   .submenu {
+      display: block;
+      width: 100%;
+      position: relative;
+      border: none;
+   }
+
+   .menu {
+      display: none;
+   }
+   
+   .menu > li {
+      clear: both;
+   }
+   
+   .submenu li {
+      display: block;
+      padding: 8px;
+   }
+   .btn-menu {
+      display: flex;
+      justify-content: center;
+      margin-top: 16px;
+      padding-bottom: 16px;
+   }
+}
+
+/* Media query Ipad */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+   .container {
+      width: 90%;
+   }
+
+   .spotlight .news a {
+      display: block;
+      font-size: 1.5em;
+   }
+
+   .news img{
+      width: 100%;
+   }
+
+   .whats-new {
+      grid-template-columns: repeat(2, 49%);
+   }
+}
