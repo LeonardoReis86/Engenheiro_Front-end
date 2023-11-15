@@ -1,4 +1,3 @@
-# vagas-frontend
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=2088f2&style=for-the-badge)
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&width=150%&color=2088f2&fontColor=ffffff&height=220&section=header&text=Engenheiro%20Front-end&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Repositório%20de%20coleção%20de%20exercícios%20e%20projetos%20" />
