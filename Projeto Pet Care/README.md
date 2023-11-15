@@ -12,15 +12,17 @@ Criar um site com a utilização de elementos de imagens, formulários, títulos
 - <a href="https://www.flaticon.com/br/icones-gratis/animais-de-estimacao" title="animais de estimação ícones">Animais de estimação ícones criados por iconfield - Flaticon</a>
 
 ## Tecnologias Utilizadas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="logo html5" width="40" height="40"/> </a> 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="logo html5" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="logo css3" width="40" height="40"/> </a>
 
 ## Resultado
 
-![](./Images/Formulario_de_cadastro.png)
+![](./assets/images/img_site_pets_care_vets.png)
 
 ## Link de Acesso
-[Site](https://pets-care-vets.vercel.app/)
+
+[Acesso ao Site](https://pets-care-vets.vercel.app/)
 
 ## Contribuição
 
