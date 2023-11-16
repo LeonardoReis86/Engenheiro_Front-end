@@ -18,7 +18,7 @@ Criar um site com a utilização de elementos de imagens, formulários, títulos
 
 ## Resultado
 
-![](./assets/images/img_site_pets_care_vets.png)
+![](./Assets/Images/img_site_pets_care_vets.png)
 
 ## Link de Acesso
 
