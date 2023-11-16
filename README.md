@@ -24,9 +24,9 @@ Este repositório abriga uma coleção de exercícios e projetos desenvolvidos d
 | 1     | [Formulário de Cadastro](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exerc%C3%ADcio_html)                                    | HTML                      |
 | 2    | [Seções de layout](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_css)                                    | HTML - CSS                      |
 | 3    | [Projeto Pet Care Vets](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/main/Projeto%20Pet%20Care)                                    | HTML - CSS                      |
-| 4     | [Validação de Formulário](https://github.com/LeonardoReis86/Engenheiro_Front-end/blob/exercicio_html_js/index.html)                                           | xxx - xxxx                  |
-| 5     | [Validação de Formulário](https://github.com/LeonardoReis86/Engenheiro_Front-end/blob/exercicio_html_js/index.html)                                           | xxx - xxxx                  |
-| 6     | [News-portal](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/main/News-portal)                                           | HTML - CSS - JavaScript                  |
+| 4     | [Validação de Formulário](https://github.com/LeonardoReis86/Engenheiro_Front-end/blob/exercicio_html_js/index.html)                                           | HTML - CSS - JS                  |
+| 5     | [Agenda de Contatos](https://github.com/LeonardoReis86/Agenda_de_Contatos)                                           | HTML - CSS - JS                  |
+| 6     | [News-portal](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/main/News-portal)                                           | HTML - CSS - JS                 |
 | x     | [Projeto](https://github.com/LeonardoReis86)                                           | xxx - xxxx                  |
 | x     | [Projeto](https://github.com/LeonardoReis86)                                           | xxx - xxxx                  |
 | x     | [Projeto](https://github.com/LeonardoReis86)                                           | xxx - xxxx                  |
