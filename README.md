@@ -10,6 +10,21 @@
 </h1>
 
 ## ☕ Sobre o projeto
+
+O objetivo deste projeto foi criar uma aplicação de lista de tarefas ecom o JQuery manipular os elementos, como adicionar, editar e remover itens cadastrados.
+
 ## ⚙ Funcionalidades
+- Adicionar Tarefas
+- Editar Tarefas
+- Marcar como concluída / Não concluída
+- Remover Tarefas
+---
 ## 🎨 Layout
+Layout desenvolvido usando HTML e CSS
+
+Mobile 📱
+Web 🖥
+---
+
 ## 🛠 Tecnologias
+Neste projeto foram utilizados HTML, CSS e JavaScript (biblioteca Jquery) para seu desenvolvimento.
