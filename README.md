@@ -4,5 +4,4 @@
 
 | No | Projetos                                                                                                                                           |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| 1     | [Lista_de_tarefas](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_jquery)                                    | 
-| 2    | [EBAC_Motors]()                                    | 
+| 1     | [Lista_de_tarefas](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_jquery)                                    |                              | 
