@@ -1,0 +1,102 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+:root {
+   font-size: 62.5%;
+}
+
+.container {
+   max-width: 102.4rem;
+   width: 90%;
+   margin: 0 auto;
+}
+
+header {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 1.6rem;
+   margin-bottom: 2.4rem;
+   background-color: #192a56;
+   color: #FAFAFA;
+   font-size: 1.2rem;
+   letter-spacing: .1rem;
+}
+
+form {
+   width: 32rem;
+   margin-top: 2.4rem;
+}
+
+.form-field {
+   margin-bottom: 1.6rem;
+}
+
+.form-field label {
+   display: block;
+   font-weight: bold;
+   font-size: 1.2rem;
+}
+
+.form-field input {
+   display: block;
+   width: 100%;
+   padding: .8rem;
+}
+
+button {
+   display: block;
+   width: 100%;
+   max-width: 12rem;
+   padding: .8rem 0;
+   background-color: #119759;
+   color: #FAFAFA;
+   font-size: 1.6rem;
+   font-weight: bold;
+   font-style: italic;
+   border: none;
+   border-radius: .6rem;
+   cursor: pointer;
+}
+
+button:hover {
+   background-color: #22c172;
+   color: #F3F4F6;
+}
+
+.error {
+   color: #BA0502;
+   border-color: #BA0502;
+   letter-spacing: .1rem;
+}
+
+/* Estilos para telas maiores que 1024px */
+@media screen and (min-width: 1024px) {
+   h1,
+   form {
+     margin: 0 auto; /* Centraliza horizontalmente */
+     width: 50%; /* Define uma largura */
+   }
+}
+
+ /* Estilos para telas entre 641px e 1023px */
+@media screen and (max-width: 1023px) and (min-width: 641px) {
+   h1,
+   form {
+     margin: 0 auto; /* Centraliza horizontalmente */
+     width: 70%; /* Define uma largura */
+   }
+}
+
+ /* Estilos para telas menores que 641px */
+@media screen and (max-width: 640px) {
+   h1,
+   form {
+     margin: 0 auto; /* Centraliza horizontalmente */
+     width: 90%; /* Define uma largura */
+   }
+}
+
