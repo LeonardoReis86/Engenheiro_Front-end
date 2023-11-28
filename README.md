@@ -10,4 +10,4 @@ Este projeto se concentra na integração do Bootstrap em uma página HTML usand
 ## 🎨 Layout
 | Mobile         | Tablet         | Desktop        |
 | -------------- | -------------- | -------------- |
-| ![Mobile]() | ![Tablet]() | ![Desktop]() |
+| ![Mobile](img-mobile.png) | ![Tablet](img-tablet.png) | ![Desktop](img-desktop.png) |
