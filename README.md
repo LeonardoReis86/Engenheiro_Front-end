@@ -27,7 +27,7 @@ Este repositório abriga uma coleção de exercícios e projetos desenvolvidos d
 | 4     | [Validação de Formulário](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_html_js)                                           
 | 5     | [Agenda de Contatos](https://github.com/LeonardoReis86/Agenda_de_Contatos)                                           | 
 | 6     | [Calculadora de Médias](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/main/Calculadora_de_medias)                                          
-| 7     | [Lista_de_tarefas](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_jquery)                                           
+| 7     | [Lista_de_tarefas](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_jquery/Lista_de_tarefas)                                           
 | 8     | [Galeria de Imagens](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_jquery/Galeria_de_Imagens)                                           
 | 9     | [EBAC_Motors](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/main/EBAC_Motors)                                           
 | 10     | [Registratio_Form](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_plugins_jquery)                                          
