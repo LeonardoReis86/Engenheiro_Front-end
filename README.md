@@ -34,6 +34,7 @@ Este repositório abriga uma coleção de exercícios e projetos desenvolvidos d
 | 11     | [News-portal](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/main/News-portal)                                           
 | 12     | [Form Bootstrap](https://github.com/LeonardoReis86/Engenheiro_Front-end/tree/exercicio_bootstrap/Form_Bootstrap)                                           
 | 13     | [Vegan_Cheese](https://github.com/LeonardoReis86/VeganCheese)                                           
+| 14     | [Studio_Nail_Designer](https://github.com/LeonardoReis86/Nail_Designer_project)     
 
 
 ## Feedback
